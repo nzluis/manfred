@@ -42,6 +42,10 @@
   "knowledge": {
     "languages": [
       {
+        "name": "Catalán",
+        "level": "Professional working proficiency"
+      },
+      {
         "name": "Español",
         "level": "Native or bilingual proficiency"
       },
