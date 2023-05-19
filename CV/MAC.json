@@ -175,7 +175,11 @@
         "institution": {
           "name": "The Odin Project",
           "description": "Estructura guiada que te ayuda a segir una línea de estudio sin desviarse ante la gran cantidad de documentación en la red, pero sin dejarse nada importante para conseguir una buena base como desarrollador full stack MERN",
-          "URL": "https://www.theodinproject.com/"
+          "URL": "https://www.theodinproject.com/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/05/19/7829c17d-00f9-4b55-b588-43ceff8016d2_the-odin-project-log.png",
+            "alt": "the-odin-project-logo-skill-finder-partners-page.png"
+          }
         },
         "finishDate": "2023-04-01",
         "linkedCompetences": [
