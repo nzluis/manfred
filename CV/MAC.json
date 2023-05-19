@@ -9,10 +9,7 @@
       "name": "Luis",
       "surnames": "Navarro",
       "title": "Desarrollador Full Stack Junior",
-      "description": "La mejor decisión que he tomado ha sido dar el salto desde el sector sanitario al mundo del software. Cada día que pasa me reafirmo en mi decisión, con una motivación creciente, consolidando conocimientos a cada paso y visualizando con ilusión todo lo que queda por aprender. \n\nDejar de lado una comodidad laboral y salarial para empezar prácticamente de cero me genera una gran satisfacción, rehacerse eludiendo el comfort de la rutina para luchar por hacerme un hueco en un mundo tecnológico que me apasiona.\n\nUna persona capaz de adaptarse a cualquier entorno de trabajo. Con una fuerza de voluntad y sacrificio inherentes que facilitan la capacidad de seguir aprendiendo y evolucionando hasta alcanzar una autonomía eficaz.\n\nMi experiencia como farmacéutico me ha brindado unas habilidades de comunicación, de resolución, y de responsabilidad, entre otras, que considero generan un extra en un perfil junior como el mío que está deseando conseguir la oportunidad por parte de una empresa que me abra esa puerta a desplegar todo el potencial que puedo desarrollar.\n\n\n\n",
-      "location": {
-        "notes": "Autocompleted using Google Maps API"
-      }
+      "description": "La mejor decisión que he tomado ha sido dar el salto desde el sector sanitario al mundo del software. Cada día que pasa me reafirmo en mi decisión, con una motivación creciente, consolidando conocimientos a cada paso y visualizando con ilusión todo lo que queda por aprender. \n\nDejar de lado una comodidad laboral y salarial para empezar prácticamente de cero me genera una gran satisfacción, rehacerse eludiendo el comfort de la rutina para luchar por hacerme un hueco en un mundo tecnológico que me apasiona.\n\nUna persona capaz de adaptarse a cualquier entorno de trabajo. Con una fuerza de voluntad y sacrificio inherentes que facilitan la capacidad de seguir aprendiendo y evolucionando hasta alcanzar una autonomía eficaz.\n\nMi experiencia como farmacéutico me ha brindado unas habilidades de comunicación, de resolución, y de responsabilidad, entre otras, que considero generan un extra en un perfil junior como el mío que está deseando conseguir la oportunidad por parte de una empresa que me abra esa puerta a desplegar todo el potencial que puedo desarrollar.\n\n\n\n"
     }
   },
   "experience": {
@@ -46,37 +43,13 @@
       },
       {
         "skill": {
-          "name": "Git",
+          "name": "Babel",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "SQL",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Webpack",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "TypeScript",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "React",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Express",
+          "name": "Bootstrap",
           "type": "technology"
         }
       },
@@ -94,13 +67,13 @@
       },
       {
         "skill": {
-          "name": "HTML",
+          "name": "Express",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Babel",
+          "name": "Git",
           "type": "technology"
         }
       },
@@ -112,7 +85,7 @@
       },
       {
         "skill": {
-          "name": "MVC",
+          "name": "HTML",
           "type": "technology"
         }
       },
@@ -124,7 +97,7 @@
       },
       {
         "skill": {
-          "name": "NPM",
+          "name": "MVC",
           "type": "technology"
         }
       },
@@ -136,13 +109,13 @@
       },
       {
         "skill": {
-          "name": "NodeJS",
+          "name": "NPM",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Bootstrap",
+          "name": "NodeJS",
           "type": "technology"
         }
       },
@@ -151,10 +124,39 @@
           "name": "REST",
           "type": "technology"
         }
+      },
+      {
+        "skill": {
+          "name": "React",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "TypeScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Webpack",
+          "type": "technology"
+        }
       }
     ]
   },
   "careerPreferences": {
+    "contact": {
+      "contactMails": [
+        "luisnavarrofs@gmail.com"
+      ]
+    },
     "status": "searchingActively"
   }
 }
