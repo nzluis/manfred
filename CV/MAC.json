@@ -162,6 +162,10 @@
         {
           "name": ".NET",
           "type": "technology"
+        },
+        {
+          "name": "React",
+          "type": "technology"
         }
       ]
     },
