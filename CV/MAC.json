@@ -157,6 +157,14 @@
         "luisnavarrofs@gmail.com"
       ]
     },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": ".NET",
+          "type": "technology"
+        }
+      ]
+    },
     "status": "searchingActively"
   },
   "manfredSpecificData": {
