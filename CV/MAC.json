@@ -165,6 +165,50 @@
           "type": "technology"
         }
       }
+    ],
+    "studies": [
+      {
+        "studyType": "selfTraining",
+        "degreeAchieved": true,
+        "name": "The Odin Project",
+        "startDate": "2022-09-01",
+        "institution": {
+          "name": "The Odin Project",
+          "description": "Estructura guiada que te ayuda a segir una línea de estudio sin desviarse ante la gran cantidad de documentación en la red, pero sin dejarse nada importante para conseguir una buena base como desarrollador full stack MERN",
+          "URL": "https://www.theodinproject.com/"
+        },
+        "finishDate": "2023-04-01",
+        "linkedCompetences": [
+          {
+            "name": "CSS",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          },
+          {
+            "name": "JSON",
+            "type": "technology"
+          },
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "MongoDB",
+            "type": "technology"
+          },
+          {
+            "name": "NodeJS",
+            "type": "technology"
+          },
+          {
+            "name": "React",
+            "type": "technology"
+          }
+        ]
+      }
     ]
   },
   "careerPreferences": {
