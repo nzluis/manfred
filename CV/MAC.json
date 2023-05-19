@@ -1,0 +1,160 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "ES",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Luis",
+      "surnames": "Navarro",
+      "title": "Desarrollador Full Stack Junior",
+      "description": "La mejor decisión que he tomado ha sido dar el salto desde el sector sanitario al mundo del software. Cada día que pasa me reafirmo en mi decisión, con una motivación creciente, consolidando conocimientos a cada paso y visualizando con ilusión todo lo que queda por aprender. \n\nDejar de lado una comodidad laboral y salarial para empezar prácticamente de cero me genera una gran satisfacción, rehacerse eludiendo el comfort de la rutina para luchar por hacerme un hueco en un mundo tecnológico que me apasiona.\n\nUna persona capaz de adaptarse a cualquier entorno de trabajo. Con una fuerza de voluntad y sacrificio inherentes que facilitan la capacidad de seguir aprendiendo y evolucionando hasta alcanzar una autonomía eficaz.\n\nMi experiencia como farmacéutico me ha brindado unas habilidades de comunicación, de resolución, y de responsabilidad, entre otras, que considero generan un extra en un perfil junior como el mío que está deseando conseguir la oportunidad por parte de una empresa que me abra esa puerta a desplegar todo el potencial que puedo desarrollar.\n\n\n\n",
+      "location": {
+        "notes": "Autocompleted using Google Maps API"
+      }
+    }
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Farmacias Varias"
+        },
+        "roles": [
+          {
+            "name": "Farmacéutico Adjunto",
+            "startDate": "2013-03-01",
+            "finishDate": "2022-08-01",
+            "challenges": [
+              {
+                "description": "Atención farmacéutica - Elaboración y dispensación de medicamentos - Gestión de stock - Pedidos y Compras."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "API",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Git",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Webpack",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "TypeScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "React",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Express",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "C#",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "HTML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Babel",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Github",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MVC",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NPM",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MongoDB",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NodeJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Bootstrap",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "REST",
+          "type": "technology"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "status": "searchingActively"
+  }
+}
