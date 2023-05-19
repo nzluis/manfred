@@ -40,6 +40,12 @@
     ]
   },
   "knowledge": {
+    "languages": [
+      {
+        "name": "Español",
+        "level": "Native or bilingual proficiency"
+      }
+    ],
     "hardSkills": [
       {
         "skill": {
