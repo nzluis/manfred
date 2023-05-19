@@ -107,6 +107,12 @@
       },
       {
         "skill": {
+          "name": "JAVA",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "JavaScript",
           "type": "technology"
         }
@@ -177,8 +183,8 @@
           "description": "Estructura guiada que te ayuda a segir una línea de estudio sin desviarse ante la gran cantidad de documentación en la red, pero sin dejarse nada importante para conseguir una buena base como desarrollador full stack MERN",
           "URL": "https://www.theodinproject.com/",
           "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/05/19/7829c17d-00f9-4b55-b588-43ceff8016d2_the-odin-project-log.png",
-            "alt": "the-odin-project-logo-skill-finder-partners-page.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/05/19/8de46dbc-33e7-49e8-a5fc-81a7af7046f2_screenshot-from-2023.png",
+            "alt": "Screenshot from 2023-05-19 13-36-22.png"
           }
         },
         "finishDate": "2023-04-01",
