@@ -158,5 +158,8 @@
       ]
     },
     "status": "searchingActively"
+  },
+  "manfredSpecificData": {
+    "desiredJobDescription": "Me encantaría encontrar un entorno de trabajo en el que primen las buenas prácticas. Participar en el crecimiento de la empresa mientras aprendo y consolido, junto con grandes profesionales, la correcta aplicación de principios SOLID, KISS, DRY, uso eficaz de TDD, patrones de diseño y diferentes arquitecturas de software.\n\nEso acompañado de un buen ambiente al cual voy a contribuir, hará un caldo de cultivo idóneo para evolucionar con consistencia como developer."
   }
 }
