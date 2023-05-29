@@ -325,6 +325,16 @@
   },
   "careerPreferences": {
     "contact": {
+      "publicProfiles": [
+        {
+          "URL": "https://www.linkedin.com/in/luisnavarrofs/",
+          "type": "linkedin"
+        },
+        {
+          "URL": "https://github.com/nzluis/",
+          "type": "other"
+        }
+      ],
       "contactMails": [
         "luisnavarrofs@gmail.com"
       ],
