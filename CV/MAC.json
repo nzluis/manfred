@@ -212,7 +212,35 @@
         "finishDate": "2023-04-01",
         "linkedCompetences": [
           {
+            "name": "API",
+            "type": "technology"
+          },
+          {
+            "name": "Axios",
+            "type": "technology"
+          },
+          {
+            "name": "Babel",
+            "type": "technology"
+          },
+          {
             "name": "CSS",
+            "type": "technology"
+          },
+          {
+            "name": "ECMAScript",
+            "type": "technology"
+          },
+          {
+            "name": "Firebase",
+            "type": "technology"
+          },
+          {
+            "name": "FlexBox",
+            "type": "technology"
+          },
+          {
+            "name": "Grid",
             "type": "technology"
           },
           {
@@ -228,7 +256,19 @@
             "type": "technology"
           },
           {
+            "name": "Jest",
+            "type": "technology"
+          },
+          {
+            "name": "MVC",
+            "type": "technology"
+          },
+          {
             "name": "MongoDB",
+            "type": "technology"
+          },
+          {
+            "name": "NPM",
             "type": "technology"
           },
           {
@@ -236,10 +276,34 @@
             "type": "technology"
           },
           {
+            "name": "Passport",
+            "type": "technology"
+          },
+          {
+            "name": "Postman",
+            "type": "technology"
+          },
+          {
+            "name": "REST",
+            "type": "technology"
+          },
+          {
             "name": "React",
+            "type": "technology"
+          },
+          {
+            "name": "Webpack",
             "type": "technology"
           }
         ]
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Aprendizaje Continuo",
+          "type": "practice"
+        }
       }
     ]
   },
