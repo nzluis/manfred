@@ -36,6 +36,42 @@
     "jobs": [
       {
         "organization": {
+          "name": "PharmaDate",
+          "URL": "https://www.pharmadate.com"
+        },
+        "roles": [
+          {
+            "name": "Desarrollador Web Full Stack Jr",
+            "startDate": "2023-05-01",
+            "finishDate": "2023-11-01",
+            "challenges": [
+              {
+                "description": "Colaboración, en concepto de prácticas, en el mantenimiento y nuevas actualizaciones de la landing page con WordPress.\nParticipar en algunas implementaciones de la lógica en php.\nContribuir en ciertos cambios de la base de datos - MySQL"
+              }
+            ],
+            "competences": [
+              {
+                "name": "Laravel",
+                "type": "technology"
+              },
+              {
+                "name": "MySQL",
+                "type": "technology"
+              },
+              {
+                "name": "PHP",
+                "type": "technology"
+              },
+              {
+                "name": "WordPress",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Farmacias Varias"
         },
         "roles": [
