@@ -36,45 +36,6 @@
     "jobs": [
       {
         "organization": {
-          "name": "Freelance Developer"
-        },
-        "roles": [
-          {
-            "name": "Desarrollador Web Full Stack Jr",
-            "startDate": "2023-01-01",
-            "finishDate": "2023-04-01",
-            "challenges": [
-              {
-                "description": "Construir funcionalidades para distintas aplicaciones web.\nImplementar y gestionar bases de datos y puntos de acceso a APIs"
-              }
-            ],
-            "competences": [
-              {
-                "name": "Bootstrap",
-                "type": "technology"
-              },
-              {
-                "name": "MongoDB",
-                "type": "technology"
-              },
-              {
-                "name": "NodeJS",
-                "type": "technology"
-              },
-              {
-                "name": "React",
-                "type": "technology"
-              },
-              {
-                "name": "TypeScript",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
           "name": "Farmacias Varias"
         },
         "roles": [
