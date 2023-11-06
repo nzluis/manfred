@@ -37,6 +37,10 @@
       {
         "organization": {
           "name": "PharmaDate",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/11/06/b600b9f6-b8dd-4cd4-9db9-964996c60ef0_pharmadate-logo.svg",
+            "alt": "pharmadate-logo.svg"
+          },
           "URL": "https://www.pharmadate.com"
         },
         "roles": [
