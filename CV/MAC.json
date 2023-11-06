@@ -387,6 +387,28 @@
     "status": "searchingActively"
   },
   "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "Git",
+        "type": "technology"
+      },
+      {
+        "name": "MongoDB",
+        "type": "technology"
+      },
+      {
+        "name": "NodeJS",
+        "type": "technology"
+      },
+      {
+        "name": "React",
+        "type": "technology"
+      },
+      {
+        "name": "TypeScript",
+        "type": "technology"
+      }
+    ],
     "desiredJobDescription": "Me encantaría encontrar un entorno de trabajo en el que primen las buenas prácticas. Participar en el crecimiento de la empresa mientras aprendo y consolido, junto con grandes profesionales, la correcta aplicación de principios SOLID, KISS, DRY, uso eficaz de TDD, patrones de diseño y diferentes arquitecturas de software.\n\nEso acompañado de un buen ambiente al cual voy a contribuir, hará un caldo de cultivo idóneo para evolucionar con consistencia como developer.",
     "goodPractices": "Muy consciente de fundamentar mi progresión como programador desde las buenas prácticas y dedicándole tiempo y recursos a escribir un código limpio que sea mantenible y escalable.\n\nSaber de la repercusión que trae consigo un código de gran fragilidad y rigidez; y de la importancia de controlar la cohesión y el acoplamiento, así como no repetirse y evitar duplicidades.\n\nEn algunos proyectos durante mi formación he usado Jest para aprender sobre la triangulación del TDD y entender su  funcionamiento y utilidad desde la práctica. \n\n"
   }
