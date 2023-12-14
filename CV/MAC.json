@@ -324,11 +324,19 @@
             "type": "technology"
           },
           {
+            "name": "MySQL",
+            "type": "technology"
+          },
+          {
             "name": "NPM",
             "type": "technology"
           },
           {
             "name": "NodeJS",
+            "type": "technology"
+          },
+          {
+            "name": "PHP",
             "type": "technology"
           },
           {
