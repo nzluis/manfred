@@ -46,7 +46,7 @@
         "roles": [
           {
             "name": "Desarrollador Web Full Stack Jr",
-            "startDate": "2023-05-01",
+            "startDate": "2023-06-01",
             "finishDate": "2023-11-01",
             "challenges": [
               {
@@ -54,6 +54,10 @@
               }
             ],
             "competences": [
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
               {
                 "name": "Laravel",
                 "type": "technology"
@@ -255,7 +259,7 @@
         "studyType": "unaccredited",
         "degreeAchieved": true,
         "name": "The Odin Project",
-        "startDate": "2022-09-01",
+        "startDate": "2022-06-01",
         "institution": {
           "name": "The Odin Project",
           "description": "Estructura guiada que te ayuda a seguir una línea de estudio sin desviarse ante la gran cantidad de documentación en la red, pero sin dejarse nada importante para conseguir una buena base como desarrollador full stack MERN\n\n**FrontEnd** \n\n - Html: Elements, Tags, Nesting, VSC, Tablas\n - CSS: Flexbox, Grid, Bootstrap, Animación, A11y, Responsive Design \n - JavaScript: Factory Functions, ES6 Modules, Classes, Module pattern, Asyncronous code, Callbacks, Promises, Async-Await, Métodos recursivos, Data Structure ( Binary Tree Traversal, Breadth-first/ Depth-first search ), Namespace, JSON, APIs, Axios, CORS, ESLint, Debugging\n - Diseño de Software: SOLID, TDD ( Jest )\n - GH pages, Netlify\n - Webpack, Babel\n - React: State&Props, JSX, Lifecycle Methods, Hooks, Router\n\n**BackEnd**\n\n - Node.js: Express, NPM, Ejs, Pug, Express-Validator, CRUD, MVC, APIs REST, Curl, Postman\n - Autentificación: PassportJs, Session, Cookies, JSON Web Tokens, dotenv, bcryptjs\n - MongoDB: Mongoose, Atlas\n - BaaS: Firebase\n - PaaS: Fly.io, Railway, Heroku\n\n**Git workflow & Github**\n",
@@ -265,7 +269,7 @@
             "alt": "Screenshot from 2023-05-19 13-36-22.png"
           }
         },
-        "finishDate": "2023-04-01",
+        "finishDate": "2022-12-01",
         "linkedCompetences": [
           {
             "name": "API",
