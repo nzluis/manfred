@@ -9,7 +9,7 @@
       "name": "Luis",
       "surnames": "Navarro",
       "title": "Desarrollador Full Stack Junior",
-      "description": "La mejor decisión que he tomado ha sido dar el salto desde el sector sanitario al mundo del software. Cada día que pasa me reafirmo en mi decisión, con una motivación creciente, consolidando conocimientos a cada paso y visualizando con ilusión todo lo que queda por aprender. \n\nDejar de lado una comodidad laboral y salarial para empezar prácticamente de cero me genera una gran satisfacción, rehacerse eludiendo el comfort de la rutina para luchar por hacerme un hueco en un mundo tecnológico que me apasiona.\n\nUna persona capaz de adaptarse a cualquier entorno de trabajo. Con una fuerza de voluntad y sacrificio inherentes que facilitan la capacidad de seguir aprendiendo y evolucionando hasta alcanzar una autonomía eficaz.\n\nMi experiencia como farmacéutico me ha brindado unas habilidades de comunicación, de resolución, y de responsabilidad, entre otras, que considero generan un extra en un perfil junior como el mío que está deseando conseguir la oportunidad por parte de una empresa que me abra esa puerta a desplegar todo el potencial que puedo desarrollar.\n\n\n\n",
+      "description": "Dar el salto desde el sector sanitario al mundo del software se va consolidando como una de las mejores decisiones que he tomado. Cada día que pasa me reafirmo en mi decisión, con una motivación creciente, consolidando conocimientos a cada paso y visualizando con ilusión todo lo que queda por aprender. \n\nDejar de lado una comodidad laboral y salarial para empezar prácticamente de cero me genera una gran satisfacción, rehacerse eludiendo el comfort de la rutina para luchar por hacerme un hueco en un mundo tecnológico que me apasiona.\n\nUna persona capaz de adaptarse a cualquier entorno de trabajo. Con una fuerza de voluntad y sacrificio inherentes que facilitan la capacidad de seguir aprendiendo y evolucionando hasta alcanzar una autonomía eficaz.\n\nMi experiencia como farmacéutico me ha brindado unas habilidades de comunicación, de resolución, y de responsabilidad, entre otras, que considero generan un extra en un perfil junior como el mío que está deseando conseguir la oportunidad por parte de una empresa que me abra esa puerta a desplegar todo el potencial que puedo desarrollar.\n\n\n\n",
       "avatar": {
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/05/29/03cdb62e-3bc8-47e5-bf62-c87f8a6efe2d_perfil.jpg",
         "alt": "perfil.jpg"
@@ -288,10 +288,6 @@
             "type": "technology"
           },
           {
-            "name": "ECMAScript",
-            "type": "technology"
-          },
-          {
             "name": "FlexBox",
             "type": "technology"
           },
@@ -401,12 +397,6 @@
       ],
       "contactMails": [
         "luisnavarrofs@gmail.com"
-      ],
-      "phoneNumbers": [
-        {
-          "number": "658208836",
-          "countryCode": "+34"
-        }
       ]
     },
     "preferences": {
