@@ -143,50 +143,6 @@
       },
       {
         "organization": {
-          "name": "PharmaDate",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/11/06/b600b9f6-b8dd-4cd4-9db9-964996c60ef0_pharmadate-logo.svg",
-            "alt": "pharmadate-logo.svg"
-          },
-          "URL": "https://www.pharmadate.com"
-        },
-        "roles": [
-          {
-            "name": "Desarrollador Web Full Stack Jr",
-            "startDate": "2023-06-01",
-            "finishDate": "2023-08-01",
-            "challenges": [
-              {
-                "description": "Colaboración, en concepto de prácticas, en el mantenimiento y nuevas actualizaciones de la landing page con WordPress.\nParticipar en algunas implementaciones de la lógica en php.\nContribuir en ciertos cambios de la base de datos - MySQL"
-              }
-            ],
-            "competences": [
-              {
-                "name": "JavaScript",
-                "type": "technology"
-              },
-              {
-                "name": "Laravel",
-                "type": "technology"
-              },
-              {
-                "name": "MySQL",
-                "type": "technology"
-              },
-              {
-                "name": "PHP",
-                "type": "technology"
-              },
-              {
-                "name": "WordPress",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
           "name": "Farmacias Varias"
         },
         "roles": [
