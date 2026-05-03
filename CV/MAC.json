@@ -466,6 +466,10 @@
           "type": "technology"
         },
         {
+          "name": "Kubernetes",
+          "type": "technology"
+        },
+        {
           "name": "MongoDB",
           "type": "technology"
         },
