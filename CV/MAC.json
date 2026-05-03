@@ -36,6 +36,93 @@
     "jobs": [
       {
         "organization": {
+          "name": "Fashiola",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/26/05/03/aed71a00-1b5d-4c75-b9e4-2a7c10b058cb_screenshot-from-2026.png",
+            "alt": "Screenshot from 2026-05-03 18-27-43.png"
+          },
+          "URL": "https://www.fashiola.es"
+        },
+        "roles": [
+          {
+            "name": "Desarrollador Jr Full Stack",
+            "startDate": "2025-02-01",
+            "challenges": [
+              {
+                "description": "Desarrollo y evolución de sistemas backend escalables y mantenibles, abarcando:\n\n* Desarrollo en PHP y MySQL aplicando principios SOLID, clean code y buenas prácticas de arquitectura.\n* Implementación de procesamiento asíncrono mediante RabbitMQ para mejorar rendimiento y desacoplamiento.\n* Refactorización de sistemas legacy, reduciendo deuda técnica y mejorando modularidad y legibilidad del código.\n* Monitorización y observabilidad con Prometheus y Grafana.\n* Gestión de infraestructura en AWS (RDS, WAF, entre otros) y despliegues mediante Kubernetes.\n* Automatización de procesos con pipelines CI/CD en GitLab.\n* Modernización del frontend, migrando de jQuery a soluciones más mantenibles como Svelte."
+              }
+            ],
+            "competences": [
+              {
+                "name": "AWS",
+                "type": "technology"
+              },
+              {
+                "name": "Git",
+                "type": "technology"
+              },
+              {
+                "name": "Grafana",
+                "type": "technology"
+              },
+              {
+                "name": "Jest",
+                "type": "technology"
+              },
+              {
+                "name": "Jira",
+                "type": "technology"
+              },
+              {
+                "name": "Kubernetes",
+                "type": "technology"
+              },
+              {
+                "name": "Linux",
+                "type": "technology"
+              },
+              {
+                "name": "Metabase",
+                "type": "technology"
+              },
+              {
+                "name": "MySQL",
+                "type": "technology"
+              },
+              {
+                "name": "PHP",
+                "type": "technology"
+              },
+              {
+                "name": "PHPStorm",
+                "type": "technology"
+              },
+              {
+                "name": "Prometheus",
+                "type": "technology"
+              },
+              {
+                "name": "RabbitMQ",
+                "type": "technology"
+              },
+              {
+                "name": "Redis",
+                "type": "technology"
+              },
+              {
+                "name": "Svelte",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Ailin Health",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/26/05/03/25d1815b-faa5-4393-be54-c4a88b3d7ca1_screenshot-from-2026.png",
