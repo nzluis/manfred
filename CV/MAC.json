@@ -462,6 +462,10 @@
     "preferences": {
       "preferredCompetences": [
         {
+          "name": "AWS",
+          "type": "technology"
+        },
+        {
           "name": "MongoDB",
           "type": "technology"
         },
