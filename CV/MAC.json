@@ -266,6 +266,12 @@
       },
       {
         "skill": {
+          "name": "PHP",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "REST",
           "type": "technology"
         }
@@ -505,10 +511,6 @@
   "manfredSpecificData": {
     "mainStackTechs": [
       {
-        "name": "Git",
-        "type": "technology"
-      },
-      {
         "name": "MongoDB",
         "type": "technology"
       },
@@ -517,7 +519,11 @@
         "type": "technology"
       },
       {
-        "name": "React",
+        "name": "PHP",
+        "type": "technology"
+      },
+      {
+        "name": "SQL",
         "type": "technology"
       },
       {
