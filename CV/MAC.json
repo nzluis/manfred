@@ -478,6 +478,10 @@
           "type": "technology"
         },
         {
+          "name": "RabbitMQ",
+          "type": "technology"
+        },
+        {
           "name": "React",
           "type": "technology"
         },
