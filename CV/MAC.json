@@ -474,6 +474,10 @@
           "type": "technology"
         },
         {
+          "name": "PHP",
+          "type": "technology"
+        },
+        {
           "name": "React",
           "type": "technology"
         },
