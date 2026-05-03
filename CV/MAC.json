@@ -36,6 +36,46 @@
     "jobs": [
       {
         "organization": {
+          "name": "Ailin Health",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/26/05/03/25d1815b-faa5-4393-be54-c4a88b3d7ca1_screenshot-from-2026.png",
+            "alt": "Screenshot from 2026-05-03 18-37-59.png"
+          },
+          "URL": "https://www.ailin.es"
+        },
+        "roles": [
+          {
+            "name": "Desarrollador Jr Full Stack",
+            "startDate": "2024-04-01",
+            "finishDate": "2025-02-01",
+            "challenges": [
+              {
+                "description": "Desarrollo y mantenimiento de soluciones web fullstack, incluyendo:\n\n* Dashboards interactivos en React con Redux, enfocados en visualización de datos y experiencia de usuario.\n* Backend basado en Node.js con Express, integrado en entorno AWS (API Gateway, Lambda, Cognito, S3, CloudWatch).\n* Optimización y mejora de plataformas internas y sitio web corporativo en PHP/WordPress, incluyendo SEO y rendimiento.\n* Gestión y diseño de bases de datos (DocumentDB y MySQL).\n* Trabajo en entornos Agile utilizando herramientas como Jira y Slack para coordinación de equipo."
+              }
+            ],
+            "competences": [
+              {
+                "name": "AWS",
+                "type": "technology"
+              },
+              {
+                "name": "MongoDB",
+                "type": "technology"
+              },
+              {
+                "name": "PHP",
+                "type": "technology"
+              },
+              {
+                "name": "WordPress",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Oxygen Academy",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/04/15/7b906898-8a07-4d0e-8ec5-e5bf4bd44d14_screenshot-from-2024.png",
