@@ -62,6 +62,10 @@
                 "type": "technology"
               },
               {
+                "name": "GitLab",
+                "type": "technology"
+              },
+              {
                 "name": "Grafana",
                 "type": "technology"
               },
